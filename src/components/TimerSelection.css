@@ -28,6 +28,7 @@ h2{
     width: 200px;
     height: 50px;
     text-align: center;
+    cursor: pointer;
 }
 .active{
     background: #d48304;
